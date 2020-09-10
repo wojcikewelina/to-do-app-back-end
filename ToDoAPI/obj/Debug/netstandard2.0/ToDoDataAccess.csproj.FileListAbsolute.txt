@@ -1,0 +1,16 @@
+C:\Users\wojci\Desktop\Kurs ItFighters\BacEnd\3. C# i SQL\ToDoApp\ToDoAppLinq\ToDoAppLinq\ToDoAPI\obj\Debug\netstandard2.0\ToDoDataAccess.csprojAssemblyReference.cache
+C:\Users\wojci\Desktop\Kurs ItFighters\BacEnd\3. C# i SQL\ToDoApp\ToDoAppLinq\ToDoAppLinq\ToDoAPI\obj\Debug\netstandard2.0\ToDoDataAccess.AssemblyInfoInputs.cache
+C:\Users\wojci\Desktop\Kurs ItFighters\BacEnd\3. C# i SQL\ToDoApp\ToDoAppLinq\ToDoAppLinq\ToDoAPI\obj\Debug\netstandard2.0\ToDoDataAccess.AssemblyInfo.cs
+C:\Users\wojci\Desktop\Kurs ItFighters\BacEnd\3. C# i SQL\ToDoApp\ToDoAppLinq\ToDoAppLinq\ToDoAPI\obj\Debug\netstandard2.0\ToDoDataAccess.dll
+C:\Users\wojci\Desktop\Kurs ItFighters\BacEnd\3. C# i SQL\ToDoApp\ToDoAppLinq\ToDoAppLinq\ToDoAPI\obj\Debug\netstandard2.0\ToDoDataAccess.pdb
+C:\Users\wojci\Desktop\Kurs ItFighters\BacEnd\3. C# i SQL\ToDoApp\ToDoAppLinq\ToDoAppLinq\ToDoAPI\bin\Debug\netstandard2.0\ToDoDataAccess.deps.json
+C:\Users\wojci\Desktop\Kurs ItFighters\BacEnd\3. C# i SQL\ToDoApp\ToDoAppLinq\ToDoAppLinq\ToDoAPI\bin\Debug\netstandard2.0\ToDoDataAccess.dll
+C:\Users\wojci\Desktop\Kurs ItFighters\BacEnd\3. C# i SQL\ToDoApp\ToDoAppLinq\ToDoAppLinq\ToDoAPI\bin\Debug\netstandard2.0\ToDoDataAccess.pdb
+C:\Users\wojci\Desktop\Kurs ItFighters\3. FullStackApp\ToDoAppLinq\ToDoAPI\bin\Debug\netstandard2.0\ToDoDataAccess.deps.json
+C:\Users\wojci\Desktop\Kurs ItFighters\3. FullStackApp\ToDoAppLinq\ToDoAPI\bin\Debug\netstandard2.0\ToDoDataAccess.dll
+C:\Users\wojci\Desktop\Kurs ItFighters\3. FullStackApp\ToDoAppLinq\ToDoAPI\bin\Debug\netstandard2.0\ToDoDataAccess.pdb
+C:\Users\wojci\Desktop\Kurs ItFighters\3. FullStackApp\ToDoAppLinq\ToDoAPI\obj\Debug\netstandard2.0\ToDoDataAccess.csprojAssemblyReference.cache
+C:\Users\wojci\Desktop\Kurs ItFighters\3. FullStackApp\ToDoAppLinq\ToDoAPI\obj\Debug\netstandard2.0\ToDoDataAccess.AssemblyInfoInputs.cache
+C:\Users\wojci\Desktop\Kurs ItFighters\3. FullStackApp\ToDoAppLinq\ToDoAPI\obj\Debug\netstandard2.0\ToDoDataAccess.AssemblyInfo.cs
+C:\Users\wojci\Desktop\Kurs ItFighters\3. FullStackApp\ToDoAppLinq\ToDoAPI\obj\Debug\netstandard2.0\ToDoDataAccess.dll
+C:\Users\wojci\Desktop\Kurs ItFighters\3. FullStackApp\ToDoAppLinq\ToDoAPI\obj\Debug\netstandard2.0\ToDoDataAccess.pdb
