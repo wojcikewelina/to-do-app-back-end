@@ -13,31 +13,31 @@ namespace ToDoAppAPI.Controllers
     public class TaskController : ControllerBase
     {
 
-        private ITaskRepository _TaskRepository;
+        private ITaskRepository _taskRepository;
 
         public TaskController(ITaskRepository taskRepository)
         {
-            _TaskRepository = taskRepository;
+            _taskRepository = taskRepository;
         }
 
         [HttpGet]
 
         public ActionResult Get()
         {
-            return Ok(_TaskRepository.GetAllTasks());
+            return Ok(_taskRepository.GetAllTasks());
         }
 
         [HttpPost]
         public ActionResult Add(Task task)
         {
-            _TaskRepository.AddTask(task);
+            _taskRepository.AddTask(task);
             return Ok("created");
         }
 
         [HttpPut("{id}")]
         public ActionResult Edit(int id, Task task)
         {
-            _TaskRepository.EditTask(id, task);
+            _taskRepository.EditTask(id, task);
             return Ok();
         }
 
@@ -45,7 +45,7 @@ namespace ToDoAppAPI.Controllers
         [HttpDelete("{id}")]
         public ActionResult Delete(int id)
         {
-            _TaskRepository.DeleteTask(id);
+            _taskRepository.DeleteTask(id);
             return Ok();
         }
 
