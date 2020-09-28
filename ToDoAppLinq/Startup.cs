@@ -31,6 +31,7 @@ namespace ToDoAppAPI
             services.AddControllers();
 
             services.Add(new ServiceDescriptor(typeof(ITaskRepository), new TaskRepository()));
+            services.Add(new ServiceDescriptor(typeof(IUserRepository), new UserRepository()));
 
             services.AddCors(o => o.AddPolicy("MyPolicy", builder =>
             {
